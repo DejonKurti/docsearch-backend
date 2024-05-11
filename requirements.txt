@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+unstructured # For loading documents
+unstructured[md]
+unstructured[pdf]
+chromadb # Using chroma for a vector storage database
+openai # Will use openai model to embed
+tiktoken  # For embeddings
