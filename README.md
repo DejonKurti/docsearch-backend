@@ -13,11 +13,11 @@ pip install -r requirements.txt
 Create the Chroma DB Vector Store.
 
 ```
-python create_database.py
+python database.py
 ```
 
 Submit a query to the DB.
 
 ```
-python query_data.py "<insert your question here>"
+python prompt.py "<insert your question here>"
 ```
